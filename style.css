@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-visual {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+h1 {
+  padding: 20px;
+}
+main {
+  width: 840px;
+  margin: 0 auto;
+  padding: 20px 0 50px 0;
+}
+.main-item {
+  border-bottom: 1px solid #000;
+  padding: 30px 0;
+}
